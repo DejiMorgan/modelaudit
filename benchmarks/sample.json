@@ -1,0 +1,5 @@
+[
+  {"example_id":"MA-001","claim":"The register lists 125 pupils.","evidence":[{"evidence_id":"EV-01","text":"The verified register reports 125 pupils."}],"gold_label":"SUPPORTED","gold_evidence_sets":[["EV-01"]],"domain":"education"},
+  {"example_id":"MA-002","claim":"The library closes at 9 PM.","evidence":[{"evidence_id":"EV-02","text":"Library opening hours are 8 AM to 5 PM."}],"gold_label":"REFUTED","gold_evidence_sets":[["EV-02"]],"domain":"general"},
+  {"example_id":"MA-003","claim":"The headteacher graduated in 2010.","evidence":[{"evidence_id":"EV-03","text":"The headteacher joined the institution in 2018."}],"gold_label":"NOT_ENOUGH_INFO","domain":"education"}
+]

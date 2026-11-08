@@ -1,0 +1,1102 @@
+[
+  {
+    "example_id": "MA-SYN-001",
+    "claim": "Inventory batch B01 contains 11 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B01: 11 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B01 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-002",
+    "claim": "Session S01 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S01 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-003",
+    "claim": "Delivery D01 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D01 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-004",
+    "claim": "Inventory batch B02 contains 12 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B02: 12 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B02 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-005",
+    "claim": "Session S02 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S02 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-006",
+    "claim": "Delivery D02 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D02 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-007",
+    "claim": "Inventory batch B03 contains 13 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B03: 13 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B03 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-008",
+    "claim": "Session S03 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S03 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-009",
+    "claim": "Delivery D03 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D03 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-010",
+    "claim": "Inventory batch B04 contains 14 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B04: 14 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B04 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-011",
+    "claim": "Session S04 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S04 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-012",
+    "claim": "Delivery D04 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D04 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-013",
+    "claim": "Inventory batch B05 contains 15 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B05: 15 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B05 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-014",
+    "claim": "Session S05 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S05 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-015",
+    "claim": "Delivery D05 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D05 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-016",
+    "claim": "Inventory batch B06 contains 16 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B06: 16 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B06 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-017",
+    "claim": "Session S06 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S06 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-018",
+    "claim": "Delivery D06 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D06 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-019",
+    "claim": "Inventory batch B07 contains 17 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B07: 17 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B07 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-020",
+    "claim": "Session S07 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S07 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-021",
+    "claim": "Delivery D07 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D07 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-022",
+    "claim": "Inventory batch B08 contains 18 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B08: 18 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B08 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-023",
+    "claim": "Session S08 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S08 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-024",
+    "claim": "Delivery D08 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D08 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-025",
+    "claim": "Inventory batch B09 contains 19 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B09: 19 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B09 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-026",
+    "claim": "Session S09 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S09 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-027",
+    "claim": "Delivery D09 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D09 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-028",
+    "claim": "Inventory batch B10 contains 20 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B10: 20 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B10 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-029",
+    "claim": "Session S10 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S10 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-030",
+    "claim": "Delivery D10 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D10 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-031",
+    "claim": "Inventory batch B11 contains 21 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B11: 21 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B11 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-032",
+    "claim": "Session S11 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S11 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-033",
+    "claim": "Delivery D11 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D11 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-034",
+    "claim": "Inventory batch B12 contains 22 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B12: 22 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B12 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-035",
+    "claim": "Session S12 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S12 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-036",
+    "claim": "Delivery D12 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D12 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-037",
+    "claim": "Inventory batch B13 contains 23 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B13: 23 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B13 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-038",
+    "claim": "Session S13 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S13 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-039",
+    "claim": "Delivery D13 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D13 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-040",
+    "claim": "Inventory batch B14 contains 24 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B14: 24 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B14 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-041",
+    "claim": "Session S14 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S14 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-042",
+    "claim": "Delivery D14 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D14 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-043",
+    "claim": "Inventory batch B15 contains 25 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B15: 25 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B15 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-044",
+    "claim": "Session S15 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S15 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-045",
+    "claim": "Delivery D15 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D15 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-046",
+    "claim": "Inventory batch B16 contains 26 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B16: 26 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B16 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-047",
+    "claim": "Session S16 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S16 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-048",
+    "claim": "Delivery D16 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D16 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-049",
+    "claim": "Inventory batch B17 contains 27 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B17: 27 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B17 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-050",
+    "claim": "Session S17 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S17 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-051",
+    "claim": "Delivery D17 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D17 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-052",
+    "claim": "Inventory batch B18 contains 28 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B18: 28 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B18 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-053",
+    "claim": "Session S18 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S18 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-054",
+    "claim": "Delivery D18 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D18 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-055",
+    "claim": "Inventory batch B19 contains 29 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B19: 29 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B19 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-056",
+    "claim": "Session S19 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S19 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-057",
+    "claim": "Delivery D19 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D19 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-058",
+    "claim": "Inventory batch B20 contains 30 sealed devices.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Inventory audit for batch B20: 30 sealed devices."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "Batch B20 was checked on the same day."
+      }
+    ],
+    "gold_label": "SUPPORTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-059",
+    "claim": "Session S20 started at 09:30.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "The attendance log for session S20 records a 10:30 start."
+      }
+    ],
+    "gold_label": "REFUTED",
+    "gold_evidence_sets": [
+      [
+        "E1"
+      ]
+    ],
+    "domain": "synthetic_operations"
+  },
+  {
+    "example_id": "MA-SYN-060",
+    "claim": "Delivery D20 arrived before noon.",
+    "evidence": [
+      {
+        "evidence_id": "E1",
+        "text": "Delivery D20 was booked for Tuesday."
+      },
+      {
+        "evidence_id": "E2",
+        "text": "The shipping company changed its route in the morning."
+      }
+    ],
+    "gold_label": "NOT_ENOUGH_INFO",
+    "gold_evidence_sets": [],
+    "domain": "synthetic_operations"
+  }
+]

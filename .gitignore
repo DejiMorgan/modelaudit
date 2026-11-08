@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Local application data
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+backend/*.sqlite3
+reports/
+
+# Credentials and local overrides
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+
+# Frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+*.tsbuildinfo
+
+# Editors and system
+.DS_Store
+.idea/
+.vscode/
+*.log
